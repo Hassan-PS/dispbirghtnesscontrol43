@@ -1,0 +1,8 @@
+{
+  "name": "dispbirghtnesscontrol43",
+  "description": "Increase/decrease brightness for an external monitor. Requires ddcutil to function",
+  "uuid": "dispbirghtnesscontrol43",
+  "shell-version": [
+    "43"
+  ]
+}
